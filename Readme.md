@@ -3,26 +3,20 @@
 ## DemoCms2025
 
 This project is a simple .NET-based CMS demo.  
-It demonstrates basic CRUD operations, authentication, and a modular architecture.
-
+demo for faith
 ### Getting Started
 
-1. Clone the repository.
-2. Open the solution in Visual Studio.
-3. Restore NuGet packages.
-4. Build and run the project.
+1. Clone the repository if you dare
+
 
 ### Features
 
-- User authentication
-- Content management
-- Modular structure
+-none
 
 ### Requirements
 
-- .NET 6.0 SDK or later
-- Visual Studio 2022 or later
+-none
 
 ### License
 
-This project is licensed under the MIT License.
+puh...
